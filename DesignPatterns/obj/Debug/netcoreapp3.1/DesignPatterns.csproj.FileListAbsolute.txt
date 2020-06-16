@@ -1,0 +1,13 @@
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+F:\!-rabotna  Mitko\Kyrs 2 vtori semestar\Designe paterns\Design Patterns\DesignPatterns\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
